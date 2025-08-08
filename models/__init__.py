@@ -1,0 +1,1 @@
+"""Data models package for bin packing optimizer."""
